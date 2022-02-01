@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\bin\Debug\List Int Find Sum(for,foreach,lamda).exe.config
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\bin\Debug\List Int Find Sum(for,foreach,lamda).exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\bin\Debug\List Int Find Sum(for,foreach,lamda).pdb
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\obj\Debug\List Int Find Sum(for,foreach,lamda).csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\obj\Debug\List Int Find Sum(for,foreach,lamda).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\obj\Debug\List Int Find Sum(for,foreach,lamda).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\obj\Debug\List Int Find Sum(for,foreach,lamda).exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int Find Sum(for,foreach,lamda)\List Int Find Sum(for,foreach,lamda)\obj\Debug\List Int Find Sum(for,foreach,lamda).pdb

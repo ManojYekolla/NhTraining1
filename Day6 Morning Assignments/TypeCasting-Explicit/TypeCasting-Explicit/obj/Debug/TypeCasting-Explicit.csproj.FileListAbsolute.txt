@@ -1,0 +1,7 @@
+F:\Nb HealthCare Tech\Day6 Morning Assignments\TypeCasting-Explicit\TypeCasting-Explicit\bin\Debug\TypeCasting-Explicit.exe.config
+F:\Nb HealthCare Tech\Day6 Morning Assignments\TypeCasting-Explicit\TypeCasting-Explicit\bin\Debug\TypeCasting-Explicit.exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\TypeCasting-Explicit\TypeCasting-Explicit\bin\Debug\TypeCasting-Explicit.pdb
+F:\Nb HealthCare Tech\Day6 Morning Assignments\TypeCasting-Explicit\TypeCasting-Explicit\obj\Debug\TypeCasting-Explicit.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\TypeCasting-Explicit\TypeCasting-Explicit\obj\Debug\TypeCasting-Explicit.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\TypeCasting-Explicit\TypeCasting-Explicit\obj\Debug\TypeCasting-Explicit.exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\TypeCasting-Explicit\TypeCasting-Explicit\obj\Debug\TypeCasting-Explicit.pdb

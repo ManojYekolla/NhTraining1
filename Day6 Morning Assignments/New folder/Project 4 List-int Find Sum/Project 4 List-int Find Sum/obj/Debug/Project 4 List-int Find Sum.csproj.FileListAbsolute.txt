@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\bin\Debug\Project 4 List-int Find Sum.exe.config
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\bin\Debug\Project 4 List-int Find Sum.exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\bin\Debug\Project 4 List-int Find Sum.pdb
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\obj\Debug\Project 4 List-int Find Sum.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\obj\Debug\Project 4 List-int Find Sum.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\obj\Debug\Project 4 List-int Find Sum.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\obj\Debug\Project 4 List-int Find Sum.exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List Int-Find Sum\Project 4 List-int Find Sum\Project 4 List-int Find Sum\obj\Debug\Project 4 List-int Find Sum.pdb

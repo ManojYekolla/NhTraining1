@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\bin\Debug\Day7Project4.exe.config
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\bin\Debug\Day7Project4.exe
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\bin\Debug\Day7Project4.pdb
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\obj\Debug\Day7Project4.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\obj\Debug\Day7Project4.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\obj\Debug\Day7Project4.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\obj\Debug\Day7Project4.exe
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer ,Product,Seller,Dept-Read,Print\Day7Project4\Day7Project4\obj\Debug\Day7Project4.pdb

@@ -1,0 +1,8 @@
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\bin\Debug\Day3Project1(Quiz Game).exe.config
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\bin\Debug\Day3Project1(Quiz Game).exe
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\bin\Debug\Day3Project1(Quiz Game).pdb
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\obj\Debug\Day3Project1(Quiz Game).csproj.AssemblyReference.cache
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\obj\Debug\Day3Project1(Quiz Game).csproj.SuggestedBindingRedirects.cache
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\obj\Debug\Day3Project1(Quiz Game).csproj.CoreCompileInputs.cache
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\obj\Debug\Day3Project1(Quiz Game).exe
+E:\Nb\Day3 Morning Assignment\Day3Project1(Quiz Game)\Day3Project1(Quiz Game)\obj\Debug\Day3Project1(Quiz Game).pdb

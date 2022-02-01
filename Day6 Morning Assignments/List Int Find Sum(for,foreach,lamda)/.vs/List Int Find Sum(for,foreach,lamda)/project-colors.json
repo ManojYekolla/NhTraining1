@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b7c000a-8ffc-4c9b-9ad7-f3f7f89d7731": {
+      "ProjectGuid": "6b7c000a-8ffc-4c9b-9ad7-f3f7f89d7731",
+      "DisplayName": "List Int Find Sum(for,foreach,lamda)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

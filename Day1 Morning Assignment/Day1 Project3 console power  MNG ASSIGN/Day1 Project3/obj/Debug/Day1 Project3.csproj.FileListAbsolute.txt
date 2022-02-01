@@ -1,0 +1,8 @@
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\bin\Debug\Day1 Project3.exe.config
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\bin\Debug\Day1 Project3.exe
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\bin\Debug\Day1 Project3.pdb
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\obj\Debug\Day1 Project3.csproj.AssemblyReference.cache
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\obj\Debug\Day1 Project3.csproj.SuggestedBindingRedirects.cache
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\obj\Debug\Day1 Project3.csproj.CoreCompileInputs.cache
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\obj\Debug\Day1 Project3.exe
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project3\Day1 Project3\obj\Debug\Day1 Project3.pdb

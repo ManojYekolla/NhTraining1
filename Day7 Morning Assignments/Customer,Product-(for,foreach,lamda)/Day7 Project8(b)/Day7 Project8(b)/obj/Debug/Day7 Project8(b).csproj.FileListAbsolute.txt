@@ -1,0 +1,7 @@
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer,Product-(for,foreach,lamda)\Day7 Project8(b)\Day7 Project8(b)\bin\Debug\Day7 Project8(b).exe.config
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer,Product-(for,foreach,lamda)\Day7 Project8(b)\Day7 Project8(b)\bin\Debug\Day7 Project8(b).exe
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer,Product-(for,foreach,lamda)\Day7 Project8(b)\Day7 Project8(b)\bin\Debug\Day7 Project8(b).pdb
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer,Product-(for,foreach,lamda)\Day7 Project8(b)\Day7 Project8(b)\obj\Debug\Day7 Project8(b).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer,Product-(for,foreach,lamda)\Day7 Project8(b)\Day7 Project8(b)\obj\Debug\Day7 Project8(b).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer,Product-(for,foreach,lamda)\Day7 Project8(b)\Day7 Project8(b)\obj\Debug\Day7 Project8(b).exe
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Customer,Product-(for,foreach,lamda)\Day7 Project8(b)\Day7 Project8(b)\obj\Debug\Day7 Project8(b).pdb

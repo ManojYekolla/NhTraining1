@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\bin\Debug\Day7Project6.exe.config
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\bin\Debug\Day7Project6.exe
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\bin\Debug\Day7Project6.pdb
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\obj\Debug\Day7Project6.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\obj\Debug\Day7Project6.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\obj\Debug\Day7Project6.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\obj\Debug\Day7Project6.exe
+F:\Nb HealthCare Tech\Day7 Morning Assignments\Emp Array-for,forEach,lamda\Day7Project6\Day7Project6\obj\Debug\Day7Project6.pdb

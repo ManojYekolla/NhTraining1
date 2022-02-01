@@ -1,0 +1,11 @@
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\bin\Debug\Day1 Project2.exe.config
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\bin\Debug\Day1 Project2.exe
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\bin\Debug\Day1 Project2.pdb
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1 Project2.csproj.AssemblyReference.cache
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1 Project2.csproj.SuggestedBindingRedirects.cache
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1_Project2.Form1.resources
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1_Project2.Properties.Resources.resources
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1 Project2.csproj.GenerateResource.cache
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1 Project2.csproj.CoreCompileInputs.cache
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1 Project2.exe
+E:\NB HealathCare Tech\Day1 Project1\Day1 Project2\Day1 Project2\obj\Debug\Day1 Project2.pdb

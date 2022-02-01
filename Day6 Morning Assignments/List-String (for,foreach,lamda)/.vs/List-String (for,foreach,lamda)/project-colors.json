@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd2ff5ee-0f8c-43df-9eb8-0312b5349a2e": {
+      "ProjectGuid": "dd2ff5ee-0f8c-43df-9eb8-0312b5349a2e",
+      "DisplayName": "List-String (for,foreach,lamda)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

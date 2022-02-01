@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\bin\Debug\List-String (for,foreach,lamda).exe.config
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\bin\Debug\List-String (for,foreach,lamda).exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\bin\Debug\List-String (for,foreach,lamda).pdb
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\obj\Debug\List-String (for,foreach,lamda).csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\obj\Debug\List-String (for,foreach,lamda).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\obj\Debug\List-String (for,foreach,lamda).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\obj\Debug\List-String (for,foreach,lamda).exe
+F:\Nb HealthCare Tech\Day6 Morning Assignments\List-String (for,foreach,lamda)\List-String (for,foreach,lamda)\obj\Debug\List-String (for,foreach,lamda).pdb

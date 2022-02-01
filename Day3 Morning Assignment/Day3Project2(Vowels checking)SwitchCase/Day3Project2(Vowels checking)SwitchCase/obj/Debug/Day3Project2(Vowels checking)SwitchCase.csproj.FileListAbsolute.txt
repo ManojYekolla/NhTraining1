@@ -1,0 +1,8 @@
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\bin\Debug\Day3Project2(Vowels checking)SwitchCase.exe.config
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\bin\Debug\Day3Project2(Vowels checking)SwitchCase.exe
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\bin\Debug\Day3Project2(Vowels checking)SwitchCase.pdb
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\obj\Debug\Day3Project2(Vowels checking)SwitchCase.csproj.AssemblyReference.cache
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\obj\Debug\Day3Project2(Vowels checking)SwitchCase.csproj.SuggestedBindingRedirects.cache
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\obj\Debug\Day3Project2(Vowels checking)SwitchCase.csproj.CoreCompileInputs.cache
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\obj\Debug\Day3Project2(Vowels checking)SwitchCase.exe
+E:\Nb\Day3 Morning Assignment\Day3Project2(Vowels checking)SwitchCase\Day3Project2(Vowels checking)SwitchCase\obj\Debug\Day3Project2(Vowels checking)SwitchCase.pdb
