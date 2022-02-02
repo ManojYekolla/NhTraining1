@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\bin\Debug\Day8 Project 4.exe.config
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\bin\Debug\Day8 Project 4.exe
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\bin\Debug\Day8 Project 4.pdb
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\obj\Debug\Day8 Project 4.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\obj\Debug\Day8 Project 4.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\obj\Debug\Day8 Project 4.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\obj\Debug\Day8 Project 4.exe
+F:\Nb HealthCare Tech\Day8 Morning Assignments\Department(List)-for,foreach,lamda,linq\Day8 Project 4\Day8 Project 4\obj\Debug\Day8 Project 4.pdb
