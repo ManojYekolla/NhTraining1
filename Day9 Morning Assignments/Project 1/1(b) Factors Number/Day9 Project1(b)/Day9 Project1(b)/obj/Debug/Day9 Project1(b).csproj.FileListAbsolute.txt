@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\bin\Debug\Day9 Project1(b).exe.config
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\bin\Debug\Day9 Project1(b).exe
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\bin\Debug\Day9 Project1(b).pdb
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\obj\Debug\Day9 Project1(b).csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\obj\Debug\Day9 Project1(b).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\obj\Debug\Day9 Project1(b).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\obj\Debug\Day9 Project1(b).exe
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(b) Factors Number\Day9 Project1(b)\Day9 Project1(b)\obj\Debug\Day9 Project1(b).pdb

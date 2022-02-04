@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\bin\Debug\Day9 Project1(c).exe.config
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\bin\Debug\Day9 Project1(c).exe
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\bin\Debug\Day9 Project1(c).pdb
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\obj\Debug\Day9 Project1(c).csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\obj\Debug\Day9 Project1(c).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\obj\Debug\Day9 Project1(c).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\obj\Debug\Day9 Project1(c).exe
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 1\1(c) Prime Number or Not\Day9 Project1(c)\Day9 Project1(c)\obj\Debug\Day9 Project1(c).pdb

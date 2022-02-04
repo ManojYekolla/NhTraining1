@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\bin\Debug\Day9 Project 6.exe.config
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\bin\Debug\Day9 Project 6.exe
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\bin\Debug\Day9 Project 6.pdb
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\obj\Debug\Day9 Project 6.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\obj\Debug\Day9 Project 6.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\obj\Debug\Day9 Project 6.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\obj\Debug\Day9 Project 6.exe
+F:\Nb HealthCare Tech\Day9 Morning Assignments\Project 6-Constructor\Day9 Project 6\Day9 Project 6\obj\Debug\Day9 Project 6.pdb
