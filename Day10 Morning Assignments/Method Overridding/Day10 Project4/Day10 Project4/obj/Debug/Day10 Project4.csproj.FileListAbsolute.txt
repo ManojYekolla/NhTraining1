@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\bin\Debug\Day10 Project4.exe.config
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\bin\Debug\Day10 Project4.exe
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\bin\Debug\Day10 Project4.pdb
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\obj\Debug\Day10 Project4.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\obj\Debug\Day10 Project4.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\obj\Debug\Day10 Project4.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\obj\Debug\Day10 Project4.exe
+F:\Nb HealthCare Tech\Day10 Morning Assignments\Method Overridding\Day10 Project4\Day10 Project4\obj\Debug\Day10 Project4.pdb
