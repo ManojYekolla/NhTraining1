@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\bin\Debug\Day11 Project 1(d).exe.config
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\bin\Debug\Day11 Project 1(d).exe
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\bin\Debug\Day11 Project 1(d).pdb
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\obj\Debug\Day11 Project 1(d).csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\obj\Debug\Day11 Project 1(d).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\obj\Debug\Day11 Project 1(d).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\obj\Debug\Day11 Project 1(d).exe
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Interface-(circle,square,rectangle,triangle )\Day11 Project 1(d)\Day11 Project 1(d)\obj\Debug\Day11 Project 1(d).pdb

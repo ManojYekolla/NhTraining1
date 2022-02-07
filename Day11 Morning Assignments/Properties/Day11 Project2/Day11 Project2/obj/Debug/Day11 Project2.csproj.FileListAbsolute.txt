@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\bin\Debug\Day11 Project2.exe.config
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\bin\Debug\Day11 Project2.exe
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\bin\Debug\Day11 Project2.pdb
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\obj\Debug\Day11 Project2.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\obj\Debug\Day11 Project2.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\obj\Debug\Day11 Project2.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\obj\Debug\Day11 Project2.exe
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Properties\Day11 Project2\Day11 Project2\obj\Debug\Day11 Project2.pdb

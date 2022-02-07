@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\bin\Debug\Day11 Project3.exe.config
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\bin\Debug\Day11 Project3.exe
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\bin\Debug\Day11 Project3.pdb
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\obj\Debug\Day11 Project3.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\obj\Debug\Day11 Project3.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\obj\Debug\Day11 Project3.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\obj\Debug\Day11 Project3.exe
+F:\Nb HealthCare Tech\Day11 Morning Assignments\Math class -3 static methods\Day11 Project3\Day11 Project3\obj\Debug\Day11 Project3.pdb
