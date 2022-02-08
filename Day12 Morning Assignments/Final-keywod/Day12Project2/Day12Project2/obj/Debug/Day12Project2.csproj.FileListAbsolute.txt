@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\bin\Debug\Day12Project2.exe.config
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\bin\Debug\Day12Project2.exe
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\bin\Debug\Day12Project2.pdb
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\obj\Debug\Day12Project2.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\obj\Debug\Day12Project2.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\obj\Debug\Day12Project2.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\obj\Debug\Day12Project2.exe
+F:\Nb HealthCare Tech\Day12 Morning Assignments\Final-keywod\Day12Project2\Day12Project2\obj\Debug\Day12Project2.pdb
