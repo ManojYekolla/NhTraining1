@@ -1,0 +1,7 @@
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Queue\Day13 Project12\Day13 Project12\bin\Debug\Day13 Project12.exe.config
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Queue\Day13 Project12\Day13 Project12\bin\Debug\Day13 Project12.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Queue\Day13 Project12\Day13 Project12\bin\Debug\Day13 Project12.pdb
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Queue\Day13 Project12\Day13 Project12\obj\Debug\Day13 Project12.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Queue\Day13 Project12\Day13 Project12\obj\Debug\Day13 Project12.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Queue\Day13 Project12\Day13 Project12\obj\Debug\Day13 Project12.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Queue\Day13 Project12\Day13 Project12\obj\Debug\Day13 Project12.pdb

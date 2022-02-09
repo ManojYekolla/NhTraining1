@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\bin\Debug\Day13 Project3.exe.config
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\bin\Debug\Day13 Project3.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\bin\Debug\Day13 Project3.pdb
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\obj\Debug\Day13 Project3.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\obj\Debug\Day13 Project3.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\obj\Debug\Day13 Project3.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\obj\Debug\Day13 Project3.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Array print Trace\Day13 Project3\Day13 Project3\obj\Debug\Day13 Project3.pdb

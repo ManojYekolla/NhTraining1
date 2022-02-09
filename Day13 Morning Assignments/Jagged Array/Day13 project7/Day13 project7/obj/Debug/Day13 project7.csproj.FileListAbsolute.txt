@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\bin\Debug\Day13 project7.exe.config
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\bin\Debug\Day13 project7.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\bin\Debug\Day13 project7.pdb
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\obj\Debug\Day13 project7.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\obj\Debug\Day13 project7.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\obj\Debug\Day13 project7.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\obj\Debug\Day13 project7.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Day13 project7\Day13 project7\obj\Debug\Day13 project7.pdb

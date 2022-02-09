@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\bin\Debug\Day13 Project5.exe.config
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\bin\Debug\Day13 Project5.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\bin\Debug\Day13 Project5.pdb
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\obj\Debug\Day13 Project5.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\obj\Debug\Day13 Project5.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\obj\Debug\Day13 Project5.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\obj\Debug\Day13 Project5.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\2-D Sum and Product\Day13 Project5\Day13 Project5\obj\Debug\Day13 Project5.pdb

@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\bin\Debug\Recursion.exe.config
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\bin\Debug\Recursion.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\bin\Debug\Recursion.pdb
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\obj\Debug\Recursion.exe
+F:\Nb HealthCare Tech\Day13 Morning Assignments\Jagged Array\Recursion\Recursion\obj\Debug\Recursion.pdb
