@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\bin\Debug\Properties.exe.config
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\bin\Debug\Properties.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\bin\Debug\Properties.pdb
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\obj\Debug\Properties.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project2\Properties\Properties\obj\Debug\Properties.pdb

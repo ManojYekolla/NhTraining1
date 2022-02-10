@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\bin\Debug\using forloop,break.exe.config
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\bin\Debug\using forloop,break.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\bin\Debug\using forloop,break.pdb
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\obj\Debug\using forloop,break.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\obj\Debug\using forloop,break.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\obj\Debug\using forloop,break.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\obj\Debug\using forloop,break.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project5\using forloop,break\using forloop,break\obj\Debug\using forloop,break.pdb

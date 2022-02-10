@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\bin\Debug\SealedClass.exe.config
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\bin\Debug\SealedClass.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\bin\Debug\SealedClass.pdb
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\obj\Debug\SealedClass.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project1\SealedClass\SealedClass\obj\Debug\SealedClass.pdb

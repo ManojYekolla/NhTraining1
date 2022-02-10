@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\bin\Debug\Prime or Not.exe.config
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\bin\Debug\Prime or Not.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\bin\Debug\Prime or Not.pdb
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\obj\Debug\Prime or Not.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\obj\Debug\Prime or Not.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\obj\Debug\Prime or Not.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\obj\Debug\Prime or Not.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project3\Prime or Not\Prime or Not\obj\Debug\Prime or Not.pdb

@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\bin\Debug\Day14Project4.exe.config
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\bin\Debug\Day14Project4.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\bin\Debug\Day14Project4.pdb
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\obj\Debug\Day14Project4.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\obj\Debug\Day14Project4.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\obj\Debug\Day14Project4.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\obj\Debug\Day14Project4.exe
+F:\Nb HealthCare Tech\Day14 Morning Assignments\Day14Project4\Day14Project4\Day14Project4\obj\Debug\Day14Project4.pdb
