@@ -1,0 +1,7 @@
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\TaskSechdule-Copy Files\Day15Project2\Day15Project2\bin\Debug\Day15Project2.exe.config
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\TaskSechdule-Copy Files\Day15Project2\Day15Project2\bin\Debug\Day15Project2.exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\TaskSechdule-Copy Files\Day15Project2\Day15Project2\bin\Debug\Day15Project2.pdb
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\TaskSechdule-Copy Files\Day15Project2\Day15Project2\obj\Debug\Day15Project2.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\TaskSechdule-Copy Files\Day15Project2\Day15Project2\obj\Debug\Day15Project2.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\TaskSechdule-Copy Files\Day15Project2\Day15Project2\obj\Debug\Day15Project2.exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\TaskSechdule-Copy Files\Day15Project2\Day15Project2\obj\Debug\Day15Project2.pdb

@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\bin\Debug\Append-File.exe.config
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\bin\Debug\Append-File.exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\bin\Debug\Append-File.pdb
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\obj\Debug\Append-File.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\obj\Debug\Append-File.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\obj\Debug\Append-File.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\obj\Debug\Append-File.exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Append-File\Append-File\obj\Debug\Append-File.pdb

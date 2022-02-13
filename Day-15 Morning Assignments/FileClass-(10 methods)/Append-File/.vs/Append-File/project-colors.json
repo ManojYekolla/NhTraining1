@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "add6dee4-940f-42fa-a206-28e07ffb6f15": {
+      "ProjectGuid": "add6dee4-940f-42fa-a206-28e07ffb6f15",
+      "DisplayName": "Append-File",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

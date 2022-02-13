@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\bin\Debug\Day15 project4.exe.config
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\bin\Debug\Day15 project4.exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\bin\Debug\Day15 project4.pdb
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\obj\Debug\Day15 project4.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\obj\Debug\Day15 project4.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\obj\Debug\Day15 project4.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\obj\Debug\Day15 project4.exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\Read Data from file\Day15 project4\Day15 project4\obj\Debug\Day15 project4.pdb

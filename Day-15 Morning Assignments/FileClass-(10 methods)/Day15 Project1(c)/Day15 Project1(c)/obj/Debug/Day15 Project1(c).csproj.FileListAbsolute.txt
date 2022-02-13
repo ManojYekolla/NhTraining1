@@ -1,0 +1,7 @@
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Day15 Project1(c)\Day15 Project1(c)\bin\Debug\Day15 Project1(c).exe.config
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Day15 Project1(c)\Day15 Project1(c)\bin\Debug\Day15 Project1(c).exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Day15 Project1(c)\Day15 Project1(c)\bin\Debug\Day15 Project1(c).pdb
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Day15 Project1(c)\Day15 Project1(c)\obj\Debug\Day15 Project1(c).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Day15 Project1(c)\Day15 Project1(c)\obj\Debug\Day15 Project1(c).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Day15 Project1(c)\Day15 Project1(c)\obj\Debug\Day15 Project1(c).exe
+F:\Nb HealthCare Tech\Day-15 Morning Assignments\FileClass-(10 methods)\Day15 Project1(c)\Day15 Project1(c)\obj\Debug\Day15 Project1(c).pdb
