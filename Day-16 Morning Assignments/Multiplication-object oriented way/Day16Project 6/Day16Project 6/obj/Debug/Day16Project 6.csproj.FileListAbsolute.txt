@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\bin\Debug\Day16Project 6.exe.config
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\bin\Debug\Day16Project 6.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\bin\Debug\Day16Project 6.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\obj\Debug\Day16Project 6.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\obj\Debug\Day16Project 6.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\obj\Debug\Day16Project 6.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\obj\Debug\Day16Project 6.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Multiplication-object oriented way\Day16Project 6\Day16Project 6\obj\Debug\Day16Project 6.pdb

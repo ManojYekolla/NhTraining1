@@ -1,0 +1,10 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\bin\Debug\Day16Project5.exe.config
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\bin\Debug\Day16Project5.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\bin\Debug\Day16Project5.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\bin\Debug\ManojYLibarary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.CopyComplete
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\obj\Debug\Day16Project5.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Class Lib-console\Day16Project5\Day16Project5\obj\Debug\Day16Project5.pdb

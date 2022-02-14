@@ -1,0 +1,6 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\PublicLibrary\bin\Debug\PublicLibrary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\PublicLibrary\bin\Debug\PublicLibrary.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\PublicLibrary\obj\Debug\PublicLibrary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\PublicLibrary\obj\Debug\PublicLibrary.pdb

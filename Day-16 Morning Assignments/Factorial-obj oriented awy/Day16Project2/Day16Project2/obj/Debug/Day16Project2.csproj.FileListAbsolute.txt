@@ -1,0 +1,7 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Factorial-obj oriented awy\Day16Project2\Day16Project2\bin\Debug\Day16Project2.exe.config
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Factorial-obj oriented awy\Day16Project2\Day16Project2\bin\Debug\Day16Project2.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Factorial-obj oriented awy\Day16Project2\Day16Project2\bin\Debug\Day16Project2.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Factorial-obj oriented awy\Day16Project2\Day16Project2\obj\Debug\Day16Project2.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Factorial-obj oriented awy\Day16Project2\Day16Project2\obj\Debug\Day16Project2.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Factorial-obj oriented awy\Day16Project2\Day16Project2\obj\Debug\Day16Project2.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Factorial-obj oriented awy\Day16Project2\Day16Project2\obj\Debug\Day16Project2.pdb

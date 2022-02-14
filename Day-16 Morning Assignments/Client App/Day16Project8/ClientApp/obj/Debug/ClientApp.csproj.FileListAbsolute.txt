@@ -1,0 +1,13 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\bin\Debug\ClientApp.exe.config
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\bin\Debug\ClientApp.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\bin\Debug\ClientApp.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\obj\Debug\ClientApp.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\obj\Debug\ClientApp.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\bin\Debug\ManojLibarary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\bin\Debug\PublicLibrary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\bin\Debug\ManojLibarary.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\bin\Debug\PublicLibrary.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete

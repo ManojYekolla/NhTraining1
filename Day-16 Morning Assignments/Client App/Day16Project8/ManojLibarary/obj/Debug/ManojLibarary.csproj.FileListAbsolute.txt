@@ -1,0 +1,5 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ManojLibarary\bin\Debug\ManojLibarary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ManojLibarary\bin\Debug\ManojLibarary.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ManojLibarary\obj\Debug\ManojLibarary.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ManojLibarary\obj\Debug\ManojLibarary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Client App\Day16Project8\ManojLibarary\obj\Debug\ManojLibarary.pdb

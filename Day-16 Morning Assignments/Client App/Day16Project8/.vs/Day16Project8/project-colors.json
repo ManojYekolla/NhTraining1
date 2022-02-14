@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec4f738a-e77b-485e-94cf-7ef4d8e92117": {
+      "ProjectGuid": "ec4f738a-e77b-485e-94cf-7ef4d8e92117",
+      "DisplayName": "ManojLibarary",
+      "ColorIndex": 0
+    },
+    "2bc5dab2-32f2-444e-8560-9c7e89d0b7f2": {
+      "ProjectGuid": "2bc5dab2-32f2-444e-8560-9c7e89d0b7f2",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "e45a074d-3da1-484e-8493-78f1c9a67dbc": {
+      "ProjectGuid": "e45a074d-3da1-484e-8493-78f1c9a67dbc",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 2
+    },
+    "7093e639-d061-4c13-90ca-205f1189c082": {
+      "ProjectGuid": "7093e639-d061-4c13-90ca-205f1189c082",
+      "DisplayName": "WindowsApplication Form",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

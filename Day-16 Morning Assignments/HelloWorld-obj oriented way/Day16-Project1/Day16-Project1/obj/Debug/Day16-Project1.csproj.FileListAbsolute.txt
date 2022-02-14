@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\bin\Debug\Day16-Project1.exe.config
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\bin\Debug\Day16-Project1.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\bin\Debug\Day16-Project1.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\obj\Debug\Day16-Project1.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\obj\Debug\Day16-Project1.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\obj\Debug\Day16-Project1.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\obj\Debug\Day16-Project1.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\HelloWorld-obj oriented way\Day16-Project1\Day16-Project1\obj\Debug\Day16-Project1.pdb

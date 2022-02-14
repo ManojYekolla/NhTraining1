@@ -6,3 +6,11 @@ D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project4\D
 D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project4\Day2Project4\obj\Debug\Day2Project4.exe
 D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project4\Day2Project4\obj\Debug\Day2Project4.pdb
 D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project4\Day2Project4\obj\Debug\Day2Project4.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\bin\Debug\Day2Project4.exe.config
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\bin\Debug\Day2Project4.exe
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\bin\Debug\Day2Project4.pdb
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\obj\Debug\Day2Project4.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\obj\Debug\Day2Project4.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\obj\Debug\Day2Project4.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\obj\Debug\Day2Project4.exe
+F:\Nb HealthCare Tech\Day2 Evng Assignments\Day2Project4\Day2Project4\obj\Debug\Day2Project4.pdb

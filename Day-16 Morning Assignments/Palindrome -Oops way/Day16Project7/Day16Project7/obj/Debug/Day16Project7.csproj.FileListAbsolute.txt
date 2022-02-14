@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\bin\Debug\Day16Project7.exe.config
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\bin\Debug\Day16Project7.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\bin\Debug\Day16Project7.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\obj\Debug\Day16Project7.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\obj\Debug\Day16Project7.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\obj\Debug\Day16Project7.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\obj\Debug\Day16Project7.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\Palindrome -Oops way\Day16Project7\Day16Project7\obj\Debug\Day16Project7.pdb

@@ -1,0 +1,16 @@
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\bin\Debug\WindowsApplication Form.exe.config
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\bin\Debug\WindowsApplication Form.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\bin\Debug\WindowsApplication Form.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\bin\Debug\ManojLibarary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\bin\Debug\PublicLibrary.dll
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\bin\Debug\ManojLibarary.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\bin\Debug\PublicLibrary.pdb
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication Form.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication Form.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication_Form.Form1.resources
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication_Form.Properties.Resources.resources
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication Form.csproj.GenerateResource.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication Form.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication Form.csproj.CopyComplete
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication Form.exe
+F:\Nb HealthCare Tech\Day-16 Morning Assignments\window Application\WindowsApplication Form\obj\Debug\WindowsApplication Form.pdb
