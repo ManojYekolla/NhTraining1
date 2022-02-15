@@ -1,0 +1,5 @@
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\ManojLibrary1\bin\Debug\ManojLibrary1.dll
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\ManojLibrary1\bin\Debug\ManojLibrary1.pdb
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\ManojLibrary1\obj\Debug\ManojLibrary1.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\ManojLibrary1\obj\Debug\ManojLibrary1.dll
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\ManojLibrary1\obj\Debug\ManojLibrary1.pdb

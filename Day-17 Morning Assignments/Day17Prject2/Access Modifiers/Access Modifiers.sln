@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{048F39F9-111B-491A-BBAC-1C6CAF1B2462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManojLibrary1", "ManojLibrary1\ManojLibrary1.csproj", "{5DE53EF6-53F1-450C-8C74-0B113181B0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{048F39F9-111B-491A-BBAC-1C6CAF1B2462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048F39F9-111B-491A-BBAC-1C6CAF1B2462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048F39F9-111B-491A-BBAC-1C6CAF1B2462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048F39F9-111B-491A-BBAC-1C6CAF1B2462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE53EF6-53F1-450C-8C74-0B113181B0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE53EF6-53F1-450C-8C74-0B113181B0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE53EF6-53F1-450C-8C74-0B113181B0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE53EF6-53F1-450C-8C74-0B113181B0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {050A563F-4ABB-49C0-933A-17F53C71950D}
+	EndGlobalSection
+EndGlobal

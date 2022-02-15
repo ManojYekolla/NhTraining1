@@ -1,0 +1,3 @@
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Prject2\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c8297e2e-320d-410b-92f8-1106388d9002": {
+      "ProjectGuid": "c8297e2e-320d-410b-92f8-1106388d9002",
+      "DisplayName": "ManojLibrary1",
+      "ColorIndex": 0
+    },
+    "c9f7ca57-1988-46a9-9aa9-66086705e2c0": {
+      "ProjectGuid": "c9f7ca57-1988-46a9-9aa9-66086705e2c0",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

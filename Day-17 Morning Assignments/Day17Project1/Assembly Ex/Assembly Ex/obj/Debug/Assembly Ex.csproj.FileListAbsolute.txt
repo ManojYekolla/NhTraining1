@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\bin\Debug\Assembly Ex.exe.config
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\bin\Debug\Assembly Ex.exe
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\bin\Debug\Assembly Ex.pdb
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\obj\Debug\Assembly Ex.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\obj\Debug\Assembly Ex.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\obj\Debug\Assembly Ex.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\obj\Debug\Assembly Ex.exe
+F:\Nb HealthCare Tech\Day-17 Morning Assignments\Day17Project1\Assembly Ex\Assembly Ex\obj\Debug\Assembly Ex.pdb
