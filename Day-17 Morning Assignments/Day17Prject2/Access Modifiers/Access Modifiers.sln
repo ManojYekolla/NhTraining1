@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManojLibrary1", "ManojLibrary1\ManojLibrary1.csproj", "{5DE53EF6-53F1-450C-8C74-0B113181B0F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicLibrary1", "PublicLibrary1\PublicLibrary1.csproj", "{F5E0BA0F-64FA-4CB4-B1BF-E7E8E40D8969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5DE53EF6-53F1-450C-8C74-0B113181B0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DE53EF6-53F1-450C-8C74-0B113181B0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DE53EF6-53F1-450C-8C74-0B113181B0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E0BA0F-64FA-4CB4-B1BF-E7E8E40D8969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E0BA0F-64FA-4CB4-B1BF-E7E8E40D8969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E0BA0F-64FA-4CB4-B1BF-E7E8E40D8969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E0BA0F-64FA-4CB4-B1BF-E7E8E40D8969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

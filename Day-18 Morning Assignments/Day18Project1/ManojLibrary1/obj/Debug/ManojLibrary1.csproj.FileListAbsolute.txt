@@ -1,0 +1,6 @@
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\ManojLibrary1\bin\Debug\ManojLibrary1.dll
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\ManojLibrary1\bin\Debug\ManojLibrary1.pdb
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\ManojLibrary1\obj\Debug\ManojLibrary1.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\ManojLibrary1\obj\Debug\ManojLibrary1.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\ManojLibrary1\obj\Debug\ManojLibrary1.dll
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\ManojLibrary1\obj\Debug\ManojLibrary1.pdb

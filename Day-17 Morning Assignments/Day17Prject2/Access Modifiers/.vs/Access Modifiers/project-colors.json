@@ -5,7 +5,32 @@
       "ProjectGuid": "7a721a0f-3e16-4818-bfa5-8e25441fea41",
       "DisplayName": "Access Modifiers",
       "ColorIndex": 0
+    },
+    "048da166-c39b-426d-b4e7-a5561a4c3000": {
+      "ProjectGuid": "048da166-c39b-426d-b4e7-a5561a4c3000",
+      "DisplayName": "ManojLibrary",
+      "ColorIndex": 1
+    },
+    "8a12f4db-89f6-4673-a3c1-7f5d71386e6e": {
+      "ProjectGuid": "8a12f4db-89f6-4673-a3c1-7f5d71386e6e",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    },
+    "048f39f9-111b-491a-bbac-1c6caf1b2462": {
+      "ProjectGuid": "048f39f9-111b-491a-bbac-1c6caf1b2462",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "5de53ef6-53f1-450c-8c74-0b113181b0f1": {
+      "ProjectGuid": "5de53ef6-53f1-450c-8c74-0b113181b0f1",
+      "DisplayName": "ManojLibrary1",
+      "ColorIndex": 4
+    },
+    "f5e0ba0f-64fa-4cb4-b1bf-e7e8e40d8969": {
+      "ProjectGuid": "f5e0ba0f-64fa-4cb4-b1bf-e7e8e40d8969",
+      "DisplayName": "PublicLibrary1",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }

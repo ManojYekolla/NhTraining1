@@ -27,11 +27,11 @@ namespace ManojLibrary1
     {
         public void MyChildClass()
         {
-            /* a = 3;
+             a = 3;
              b = 4;
              c = 5;
              d = 6;
-             e = 7;*/
+             e = 7;
         }
     }
     public class OtherClass
@@ -40,11 +40,11 @@ namespace ManojLibrary1
         {
             ParentClass obj = new ParentClass();
 
-            /* obj.a = 3;
+             obj.a = 3;
              obj.b = 4;
              obj.c = 5;
              obj.d = 6;
-             obj.e = 7;*/
+             obj.e = 7;
         }
     }
 }

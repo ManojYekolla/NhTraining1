@@ -1,0 +1,14 @@
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\bin\Debug\Calculate App.exe.config
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\bin\Debug\Calculate App.exe
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\bin\Debug\Calculate App.pdb
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\bin\Debug\ManojLibrary1.dll
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\bin\Debug\ManojLibrary1.pdb
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate App.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate App.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate_App.Form1.resources
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate_App.Properties.Resources.resources
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate App.csproj.GenerateResource.cache
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate App.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate App.csproj.CopyComplete
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate App.exe
+F:\Nb HealthCare Tech\Day-18 Morning Assignments\Day18Project1\Calculate App\obj\Debug\Calculate App.pdb
