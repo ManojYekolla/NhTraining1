@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\bin\Debug\DelegatesProgram.exe.config
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\bin\Debug\DelegatesProgram.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\bin\Debug\DelegatesProgram.pdb
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\obj\Debug\DelegatesProgram.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\obj\Debug\DelegatesProgram.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\obj\Debug\DelegatesProgram.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\obj\Debug\DelegatesProgram.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project2\DelegatesProgram\DelegatesProgram\obj\Debug\DelegatesProgram.pdb

@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\bin\Debug\Day20Project1.exe.config
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\bin\Debug\Day20Project1.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\bin\Debug\Day20Project1.pdb
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\obj\Debug\Day20Project1.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\obj\Debug\Day20Project1.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\obj\Debug\Day20Project1.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\obj\Debug\Day20Project1.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project1\Scope of Variables\Day20Project1\Day20Project1\obj\Debug\Day20Project1.pdb

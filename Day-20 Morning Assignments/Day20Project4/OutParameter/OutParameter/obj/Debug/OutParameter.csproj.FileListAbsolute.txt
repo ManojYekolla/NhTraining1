@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\bin\Debug\OutParameter.exe.config
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\bin\Debug\OutParameter.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\bin\Debug\OutParameter.pdb
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\obj\Debug\OutParameter.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\obj\Debug\OutParameter.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\obj\Debug\OutParameter.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\obj\Debug\OutParameter.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project4\OutParameter\OutParameter\obj\Debug\OutParameter.pdb

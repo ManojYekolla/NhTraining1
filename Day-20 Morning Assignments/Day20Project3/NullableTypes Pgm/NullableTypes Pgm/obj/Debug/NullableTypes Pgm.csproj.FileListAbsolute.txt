@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\bin\Debug\NullableTypes Pgm.exe.config
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\bin\Debug\NullableTypes Pgm.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\bin\Debug\NullableTypes Pgm.pdb
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\obj\Debug\NullableTypes Pgm.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\obj\Debug\NullableTypes Pgm.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\obj\Debug\NullableTypes Pgm.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\obj\Debug\NullableTypes Pgm.exe
+F:\Nb HealthCare Tech\Day-20 Morning Assignments\Day20Project3\NullableTypes Pgm\NullableTypes Pgm\obj\Debug\NullableTypes Pgm.pdb
