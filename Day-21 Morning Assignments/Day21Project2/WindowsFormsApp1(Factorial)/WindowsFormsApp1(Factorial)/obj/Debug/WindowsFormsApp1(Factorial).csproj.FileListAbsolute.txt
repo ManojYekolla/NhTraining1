@@ -1,0 +1,11 @@
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\bin\Debug\WindowsFormsApp1(Factorial).exe.config
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\bin\Debug\WindowsFormsApp1(Factorial).exe
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\bin\Debug\WindowsFormsApp1(Factorial).pdb
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1(Factorial).csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1(Factorial).csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1_Factorial_.Form1.resources
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1_Factorial_.Properties.Resources.resources
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1(Factorial).csproj.GenerateResource.cache
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1(Factorial).csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1(Factorial).exe
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project2\WindowsFormsApp1(Factorial)\WindowsFormsApp1(Factorial)\obj\Debug\WindowsFormsApp1(Factorial).pdb

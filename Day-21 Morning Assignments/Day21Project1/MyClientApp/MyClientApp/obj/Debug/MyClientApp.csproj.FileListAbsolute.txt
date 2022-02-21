@@ -1,0 +1,8 @@
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\bin\Debug\MyClientApp.exe.config
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\bin\Debug\MyClientApp.exe
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\bin\Debug\MyClientApp.pdb
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\obj\Debug\MyClientApp.exe
+F:\Nb HealthCare Tech\Day-21 Morning Assignments\Day21Project1\MyClientApp\MyClientApp\obj\Debug\MyClientApp.pdb
