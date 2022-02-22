@@ -1,0 +1,9 @@
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\bin\Debug\DataAcessesLayer.dll
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\bin\Debug\DataAcessesLayer.pdb
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb

@@ -1,0 +1,6 @@
+1,ManojYekolla,15000,25
+2,Jeevan,12000,27
+3,ManojBabu,23000,21
+4,Nithesh,27000,30
+5,ChandhraMouli,35000,36
+6,Raviteja,50000,45

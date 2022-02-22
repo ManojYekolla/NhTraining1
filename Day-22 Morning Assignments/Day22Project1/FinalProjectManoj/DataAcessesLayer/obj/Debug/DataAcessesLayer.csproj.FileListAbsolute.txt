@@ -1,0 +1,6 @@
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\DataAcessesLayer\bin\Debug\DataAcessesLayer.dll
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\DataAcessesLayer\bin\Debug\DataAcessesLayer.pdb
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\DataAcessesLayer\obj\Debug\DataAcessesLayer.csproj.AssemblyReference.cache
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\DataAcessesLayer\obj\Debug\DataAcessesLayer.csproj.CoreCompileInputs.cache
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\DataAcessesLayer\obj\Debug\DataAcessesLayer.dll
+F:\Nb HealthCare Tech\Day-22 Morning Assignments\Day22Project1\FinalProjectManoj\DataAcessesLayer\obj\Debug\DataAcessesLayer.pdb
